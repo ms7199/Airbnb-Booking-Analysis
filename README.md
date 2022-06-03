@@ -3,7 +3,7 @@
 It's a EDA(Exploratory Data Analysis) capstone project on Airbnb dataset(NYC 2019)
 
 # What is Airbnb?
-
+![airbnb](https://user-images.githubusercontent.com/38307186/171787975-414f7614-fad6-4995-9f0b-0e79770608c6.png)
 Airbnb, Inc. is an American company that operates an online marketplace for lodging, 
 primarily homestays for vacation rentals, and tourism activities. 
 Based in San Francisco, California, the platform is accessible via 
