@@ -44,7 +44,6 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 **List of field**:
 ---
 
-<center>
 | Column Name  | Description |
 | ------------- | ------------- |
 | id | ID of the listing  |
@@ -63,7 +62,7 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 | reviews_per_month | Its a ratio(no. of reviews/30)   |
 |  callculated_host_listings_count   | Amount of listing per host   |
 | availability_365   | Number of days in a year when bookings are available   |
-</center>
+
 
 
 # **Overall Observation/Conclusion:**
