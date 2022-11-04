@@ -5,11 +5,11 @@ It's an EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
 
 ## Table of content
 
-- [What is Airbnb?](#What-is-Airbnb?)
+- [What is Airbnb?](#What-is-Airbnb)
 - [Problem Statement](#Problem-Statement)
-- [Explore and analyze the data to discover key understandings (not limited to these) such as:](#Explore-and-analyze-the-data-to-discover-key-understandings-(not-limited-to-these)-such-as:)
+- [Explore and analyze the data to discover key understandings (not limited to these) such as:](#Explore-and-analyze-the-data-to-discover-key-understandings-(not-limited-to-these)-such-as)
 - [Diving into dataset](#Diving-into-dataset)
-- [Overall Observation/Conclusion:](#Overall-Observation/Conclusion:)
+- [Overall Observation/Conclusion:](#Overall-ObservationConclusion)
 
 ## **What is Airbnb?**
 
@@ -44,7 +44,7 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 * Is there any noticeable difference of traffic among different areas and what could be the reason for it? 
 
 ## **Diving into dataset**
----
+
 * There are 49,000 observations with various types of field in this dataset.
 
 * Actually dataset has total 48895 fields and 16 columns in which 10 columns have numeric values and 6 columns have categorical values.
