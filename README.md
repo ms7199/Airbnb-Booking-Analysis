@@ -3,6 +3,14 @@
 
 It's an EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
 
+## Table of content
+
+- [What is Airbnb?](#What is Airbnb?)
+- [Problem Statement](#Problem Statement)
+- [Explore and analyze the data to discover key understandings (not limited to these) such as:](#explore)
+- [Diving into dataset](#dataset)
+- [Overall Observation/Conclusion:](#observation)
+
 ## **What is Airbnb?**
 
 Airbnb, Inc. is an American company that operates an online marketplace for lodging, 
@@ -35,7 +43,7 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 * Which hosts are the busiest and why?
 * Is there any noticeable difference of traffic among different areas and what could be the reason for it? 
 
-**Diving into dataset**
+## **Diving into dataset**
 ---
 * There are 49,000 observations with various types of field in this dataset.
 
