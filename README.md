@@ -5,11 +5,11 @@ It's an EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
 
 ## Table of content
 
-- [What is Airbnb?](#What is Airbnb?)
-- [Problem Statement](#Problem Statement)
-- [Explore and analyze the data to discover key understandings (not limited to these) such as:](#explore)
-- [Diving into dataset](#dataset)
-- [Overall Observation/Conclusion:](#observation)
+- [What is Airbnb?](#What-is-Airbnb?)
+- [Problem Statement](#Problem-Statement)
+- [Explore and analyze the data to discover key understandings (not limited to these) such as:](#Explore-and-analyze-the-data-to-discover-key-understandings-(not-limited-to-these)-such-as:)
+- [Diving into dataset](#Diving-into-dataset)
+- [Overall Observation/Conclusion:](#Overall-Observation/Conclusion:)
 
 ## **What is Airbnb?**
 
