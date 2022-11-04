@@ -1,7 +1,7 @@
 # **Airbnb-Booking-Analysis**
 
 
-It's a EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
+It's an EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
 
 ## **What is Airbnb?**
 
