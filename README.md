@@ -9,6 +9,7 @@ It's an EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
 - [Problem Statement](#Problem-Statement)
 - [Explore and analyze the data to discover key understandings (not limited to these) such as:](#Explore-and-analyze-the-data-to-discover-key-understandings-(not-limited-to-these)-such-as)
 - [Diving into dataset](#Diving-into-dataset)
+  - [List of field](#List-of-field)   
 - [Overall Observation/Conclusion:](#Overall-ObservationConclusion)
 
 ## **What is Airbnb?**
@@ -49,7 +50,7 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 
 * Actually dataset has total 48895 fields and 16 columns in which 10 columns have numeric values and 6 columns have categorical values.
 
-**List of field**:
+### **List of field**:
 ---
 
 | Column Name  | Description |
