@@ -1,6 +1,6 @@
 # Airbnb-Booking-Analysis
 
-It's a EDA(Exploratory Data Analysis) capstone project on Airbnb dataset(NYC 2019)
+It's a EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
 
 # What is Airbnb?
 ![airbnb](https://user-images.githubusercontent.com/38307186/171787975-414f7614-fad6-4995-9f0b-0e79770608c6.png)
@@ -32,3 +32,20 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 * What can we learn from predictions? (ex: locations, prices, reviews, etc)
 * Which hosts are the busiest and why?
 * Is there any noticeable difference of traffic among different areas and what could be the reason for it? 
+
+# **Overall Observation/Conclusion:**
+---
+
+* The majority of guests like individual rooms or complete homes over communal accommodations.
+
+* Brooklyn and Manhattan are New York's two prestigious, wealthy, and upscale neighbourhoods.
+
+* Some properties have minimum nightly stays that are greater than 365 days, which may appeal to students, low-wage workers, and immigrants.
+
+* Even if a home's location greatly influences its price, just because a location is popular doesn't guarantee that the property will be occupied the majority of the time.
+
+* Because the characteristics provided in this dataset are of such poor quality for determining the value of properties, performing a regression on it may have a significant error rate. By examining the correlation heatmap, we may observe this. We would require more features such as bedrooms, bathrooms, property age (we believed it would be a very essential one), the tax rate that applies to land, additional amenities in the room, and the distance to the closest hospital, store, or school. These characteristics and pricing may be closely related.
+
+* With the help of time series analysis, it is feasible to create predictions about the occupancy rate at specific times of the month or season.
+
+* It would be helpful if we got the average guest reviews of a property; this would help us understand the property better and may also affect the price. A little bit
