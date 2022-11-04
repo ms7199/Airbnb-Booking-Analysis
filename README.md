@@ -1,10 +1,9 @@
 # **Airbnb-Booking-Analysis**
----
+
 
 It's a EDA(Exploratory Data Analysis) on Airbnb dataset(NYC 2019)
 
 ## **What is Airbnb?**
----
 
 Airbnb, Inc. is an American company that operates an online marketplace for lodging, 
 primarily homestays for vacation rentals, and tourism activities. 
@@ -24,7 +23,6 @@ The company is regulated by many jurisdictions, including the
 European Union and cities such as San Francisco and New York City.
 
 ## **Problem Statement**
----
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present a more unique, personalized way of experiencing the world. Today, Airbnb became one of a kind service that is used and recognized by the whole world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analyzed and used for security, business decisions, understanding of customers' and providers' (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more.
 
@@ -68,7 +66,6 @@ This dataset has around 49,000 observations in it with 16 columns and it is a mi
 
 
 # **Overall Observation/Conclusion:**
----
 
 * The majority of guests like individual rooms or complete homes over communal accommodations.
 
